@@ -15,5 +15,5 @@ If you prefer a more up-to-date alternative, you can also try:
 
 ## Join Our Community
 Have ideas or suggestions? Join our Discord:
-[dc.gg/nights](https://dc.gg/nights)
+[dc.gg/technova](https://dc.gg/technova)
 
